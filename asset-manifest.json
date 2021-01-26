@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/taskmanager-app/static/css/main.cd223e6f.chunk.css",
-    "main.js": "/taskmanager-app/static/js/main.b0acd3cf.chunk.js",
-    "main.js.map": "/taskmanager-app/static/js/main.b0acd3cf.chunk.js.map",
+    "main.js": "/taskmanager-app/static/js/main.b2592cf3.chunk.js",
+    "main.js.map": "/taskmanager-app/static/js/main.b2592cf3.chunk.js.map",
     "runtime-main.js": "/taskmanager-app/static/js/runtime-main.1bb6554b.js",
     "runtime-main.js.map": "/taskmanager-app/static/js/runtime-main.1bb6554b.js.map",
     "static/js/2.f638f2df.chunk.js": "/taskmanager-app/static/js/2.f638f2df.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1bb6554b.js",
     "static/js/2.f638f2df.chunk.js",
     "static/css/main.cd223e6f.chunk.css",
-    "static/js/main.b0acd3cf.chunk.js"
+    "static/js/main.b2592cf3.chunk.js"
   ]
 }
